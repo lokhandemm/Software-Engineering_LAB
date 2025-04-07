@@ -2,7 +2,7 @@
                     
 ## 1 - UML Diagrams in StarUML 
  
-### Objective
+### Objective 
 To study Unified Modeling Language (UML) perspectives and notations in StarUML by creating a Use-Case diagram and an Activity diagram for an Online Airline Reservation System.
 
 ### Problem Statements
